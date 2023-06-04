@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&pause=1000&color=A403CA&width=435&lines=Only+in+the+darkness+can+you+see+the+stars.;You're+enough+of+a+hazard+as+it+is.;Wait%2C+that's+not+lit%2C+that's+illegal!;Your+body+is+a+bag+of+bones." alt="Typing SVG" /></a>
 
 <!--
 **Daffy-Dill/Daffy-Dill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
